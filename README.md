@@ -1,0 +1,2 @@
+In this project, I analyzed stock price data for companies like Apple, Microsoft, and Tesla from 2018 to 2023. I performed descriptive statistical analysis, visualized stock price trends, and conducted regression analysis to evaluate the relationship between stock performance and the S&P 500 index. Additionally, I provided insights and recommendations for different types of investors based on the volatility and performance of each stock. The tools I used include Python for data analysis and Power BI for creating visualizations.
+
